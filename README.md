@@ -19,6 +19,8 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [SQLite](https://www.sqlite.org/index.html)
+- [TypeORM](https://typeorm.io/#/)
+- [React native](https://reactnative.dev/)
 
 ## 💻 Projeto
 
