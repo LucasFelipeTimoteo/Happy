@@ -21,4 +21,8 @@ app.use('/uploads', express.static(path.join(__dirname, '..', 'uploads')));
 
 app.use(errorHandler)
 
-app.listen(1313, () => console.log('server running'))
+
+const PORT = 1313
+app.listen(PORT, () => console.log(
+    `-----------------------------------------------\nSERVER RUNNING ON PORT: ${PORT}                  |\n-----------------------------------------------`
+))
