@@ -8,9 +8,6 @@
   <img alt="Happy" src=".github/happy.png" width="100%">
 </p>
 
-## :construction: Status
-Em desenvolvimento
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
